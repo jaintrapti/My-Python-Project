@@ -42,4 +42,7 @@ for i in range(5):
     print(end="  ")
     for j in range(5):
         print(print__E[i][j],end=" ")
+
     print()   
+
+
